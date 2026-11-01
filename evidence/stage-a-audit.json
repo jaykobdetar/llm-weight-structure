@@ -1,0 +1,72 @@
+{
+  "authorization": "This audit is not permission to archive markers, load weights, execute Stage B or perform confirmation; each requires a separate decision and release.",
+  "interpretation": [
+    "The 8 cases are correlated and development-selected; this is not a held-out confirmation or proof of a bilinear group, unique circuit or broad generalization.",
+    "No selector, local MLP replay, Stage B or confirmation was run. Full-model loading and ordinary MLP execution occurred during Stage A.",
+    "Checkpoint identity and actual calls are reported and source-bound, not independently established by saved-array replay.",
+    "The prior v4 technical hold is unchanged; the Stage A review marker remains pending separate authorized disposition."
+  ],
+  "passing_cases": 8,
+  "recorded_counts": {
+    "arrays": 116,
+    "capability_forwards": 24,
+    "capability_pairs": 24,
+    "explicit_head_linear_calls": 83,
+    "local_mlp_calls": 0,
+    "observer_head_linear_reservations": 243,
+    "parity_diagnostics": 17,
+    "parity_forwards": 4,
+    "selector_calls": 0,
+    "selector_unopened": true,
+    "thin_qr": 1,
+    "thin_svd": 1
+  },
+  "saved_audit_scope": [
+    "Recomputed all 24 binary32-RNE margins from saved scalar pairs and the fixed 8/8 decision.",
+    "Rechecked 17 reported parity aggregates against frozen gates, not their unsaved raw tensors.",
+    "Verified worker inventory, 116 array hashes, shapes and finiteness; port-vector arithmetic was not independently recomputed.",
+    "Saved evidence is conditional on recorded inputs and does not independently prove native FP mode, underlying logits, checkpoint provenance or actual call execution."
+  ],
+  "schema": "smol-stage-a-independent-audit-v1",
+  "scope": "fixed correlated development capability panel; audit of saved evidence, not a release",
+  "source_and_evidence": {
+    "completion_sha256": "4cb0b06ce772852b3b602d5e5f7816bf61001889382cab166df9d67774b0b1c3",
+    "contract_sha256": "cfe8bdc3df00ae27c8e2f71d45c8199fd549f16c2e69d93689babacd25041381",
+    "entry_receipt_sha256": "8a23e55e181051bcac040013af05503c6039a8e28e4b8065120e46a34429ef13",
+    "entry_sha256": "ab73653cad1f4a1c6d8ca8a7fed16d900605ba2eda688753d2479ebfa8260881",
+    "guard_receipt_sha256": "915d41dc134f87ce187b845431fb9f785670adb5d913fe2b6878e54b7feffc45",
+    "guard_sha256": "260bded5656f014fcd6c299720eaca658021daac8f8e4a634053ede4f3b2fb5e",
+    "independent_worker_inventory_sha256": "1225f120792f9eae48492a61ce6e8646cd56facfb4746a692d56687cb9daafa1",
+    "loader_adapter_sha256": "e1d5ed4cf6d6161c970aa86c099257b43d35d9621e9ce0d049a8e696c3b8181f",
+    "loading_info_sha256": "ffba978fbbe73d715682a84b979421f1a7a4a6cdd974c28a9460f6cc233b07b6",
+    "native_evidence_archive_sha256": "a74e8c4223af5a5821906e13244a65de606fc4c129f7001c1de82f42006ba747",
+    "native_evidence_library_id": "libfile_966832eab9588191938c039b6942046d",
+    "native_evidence_manifest_sha256": "870915aca0ec19c9611a29942e81751eefac878015951a743d4cfc4b371192ef",
+    "owner_sha256": "abe38fe5ad10eeac9980ce58006d52a6f2b70b86fc394b8ad3a416bd0bdb80d2",
+    "receiver_sha256": "52e7fba74c5cf9b2ca55551f7d2c47b2eeb7d78209970fe31939c3ec64c452b1",
+    "records_sha256": "2a83f2097cdabedf8a9dcef9b7fca37328c2f696ff55716d650f40fd6b3e2a30",
+    "reported_checkpoint_sha256": "80521b40281d6ce74e35c9282c22539e75aa0ac8578892b2a59955ef78d55da1",
+    "result_sha256": "d18a68d2162b70dbd8cd8ff5cfe45747eaebbdb141a4796015da76aac1bb940b",
+    "saved_audit_receipt_sha256": "243fe9ba0404f3e3300f157d2c7b36b930ab977ccc5b12d16a1e4bd12b487482",
+    "saved_audit_stdout_sha256": "513d6ce1d82d35eb7906745e29cd232d6394c7047b24de01d9c1dbb106a531a9",
+    "saved_auditor_sha256": "699a1cdecdfcbcb8fd9e356fd4da989d78b91fa0da1766d23f6bb516594d707e",
+    "watchdog_receipt_sha256": "310629ab497d0ac9f7126d93b67c31df413ecf7afae9777c734b7b3b68dafe38",
+    "watchdog_sha256": "769542ad130e35151333f9cc71d913b02bb2dea10948bb657d69d9804544b64d",
+    "worker_sha256": "5879a99ac1390d5ffac71a7b5bdf1a4dac1195acb4cf5c10fc1d34065059ae20",
+    "writer_sha256": "b3e36f67b29c075406ead341af1900eae3f52c8428501b02f68034e8c8d3caea"
+  },
+  "status": "CAPABILITY_PASS_DEV_ONLY",
+  "supervision_scope": {
+    "entry_cpu_seconds_pre_exit": 0.04612,
+    "entry_elapsed_seconds_pre_exit": 5.815188563981792,
+    "maximum_sampled_conservative_support_charge_bytes": 1336623104,
+    "minimum_saved_host_available_bytes": 9571110912,
+    "observed_wait_statuses": "worker, guard and watchdog reaped with status zero; reported pidfds terminal; cleanup uncertainty false",
+    "resource_limitations": "sampled host/RSS are not instantaneous guarantees; support charge is not measured aggregate RSS; terminal entry rusage unavailable",
+    "scope_limit": "trusted no-descendant worker; not a general containment proof",
+    "watchdog_wait4_cumulative_cpu_seconds": 5.30762,
+    "worker_max_sampled_rss_bytes": 866861056,
+    "worker_wait4_maxrss_kib": 1096200
+  },
+  "total_cases": 8
+}

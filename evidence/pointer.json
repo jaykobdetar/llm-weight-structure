@@ -1,0 +1,64 @@
+{
+  "status": "completed",
+  "protocol": "POINTER-v0.3",
+  "pins": {
+    "runner_sha256": "1d73f4958baaef42b3fbe4ed3a7e0190835bc1f8a971b14537cae709c80f821c",
+    "prompt_sha256": "e5472949cd646e6c9723bd4d4ae2876e06fe7c829bd1f49820978a7317c3b4a2"
+  },
+  "seconds": 33.273611584998434,
+  "confirmation_clusters": 32,
+  "development_clusters": 8,
+  "sequences": 160,
+  "demo_used": true,
+  "unrestricted_ok": {
+    "onehop": 6,
+    "base2": 3,
+    "rewired2": 4,
+    "all_three_twohop": 0,
+    "pass": false,
+    "cluster_wilson95": {
+      "onehop": [
+        0.08889544689565954,
+        0.3530915520137596
+      ],
+      "base2": [
+        0.032401551298366194,
+        0.24218154728387864
+      ],
+      "rewired2": [
+        0.04970134387480073,
+        0.2806830548165022
+      ],
+      "all_three_twohop": [
+        0.0,
+        0.1071791982550706
+      ]
+    }
+  },
+  "forced_ok": {
+    "onehop": 6,
+    "base2": 3,
+    "rewired2": 4,
+    "all_three_twohop": 0,
+    "pass": false,
+    "cluster_wilson95": {
+      "onehop": [
+        0.08889544689565954,
+        0.3530915520137596
+      ],
+      "base2": [
+        0.032401551298366194,
+        0.24218154728387864
+      ],
+      "rewired2": [
+        0.04970134387480073,
+        0.2806830548165022
+      ],
+      "all_three_twohop": [
+        0.0,
+        0.1071791982550706
+      ]
+    }
+  },
+  "outcome": "prompted-capability-gate-failed"
+}

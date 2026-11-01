@@ -1,0 +1,72 @@
+{
+  "counts": {
+    "confirmation_baseline_full": 0,
+    "confirmation_edit_full": 0,
+    "discovery_full": 16,
+    "identity_full": 0,
+    "prefix": 0,
+    "vjp": 0
+  },
+  "final_parameters": {
+    "all_modules_eval": true,
+    "all_parameter_grads_none": true,
+    "all_requires_grad_false": true,
+    "elements": 134515008,
+    "parameter_sha256": "6723399b5c4d3c2a1a4d37330fd41fe3dda4ed5aba5f055c1ba3f342284d3637",
+    "parameter_tensors": 272
+  },
+  "gate": {
+    "correct": 12,
+    "joint_correct_clusters": 4,
+    "passed": false,
+    "physical_parity": [
+      {
+        "cluster_index": 0,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 1,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 2,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 3,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 4,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 5,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 6,
+        "same_physical_K_and_V_hashes": true
+      },
+      {
+        "cluster_index": 7,
+        "same_physical_K_and_V_hashes": true
+      }
+    ],
+    "positive_rho_clusters": 8,
+    "rho_pair_passes": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ]
+  },
+  "parameters_unchanged": true,
+  "scope": "This query-switch scope did not transfer; no VJP/nomination/confirmation or general mechanism absence claim.",
+  "seconds": 2.318096475999482,
+  "status": "QUERY_SWITCH_TRANSFER_FAILED"
+}
