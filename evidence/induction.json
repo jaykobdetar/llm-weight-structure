@@ -1,0 +1,54 @@
+{
+  "status": "completed",
+  "protocol": "INDUCTION-FALLBACK-v1",
+  "pairs": 32,
+  "sequences": 64,
+  "pins": {
+    "runner_sha256": "27253773ccc36d58a9366231771edfedbb19b35d0e8c0b612b1d0b6408feda58",
+    "prompt_sha256": "c5c89e4d32589d0f83937674313e45124cd844a1d5b3208765eca49f8220e035"
+  },
+  "seconds": 6.0858727199993154,
+  "retention": "16 candidate logits and full-vocabulary argmax; full-vocabulary logits not retained",
+  "unrestricted_ok": {
+    "original": 32,
+    "swapped": 32,
+    "both": 32,
+    "pass": true,
+    "pair_wilson95": {
+      "original": [
+        0.8928208017449293,
+        1.0
+      ],
+      "swapped": [
+        0.8928208017449293,
+        1.0
+      ],
+      "both": [
+        0.8928208017449293,
+        1.0
+      ]
+    }
+  },
+  "forced_ok": {
+    "original": 32,
+    "swapped": 32,
+    "both": 32,
+    "pass": true,
+    "pair_wilson95": {
+      "original": [
+        0.8928208017449293,
+        1.0
+      ],
+      "swapped": [
+        0.8928208017449293,
+        1.0
+      ],
+      "both": [
+        0.8928208017449293,
+        1.0
+      ]
+    }
+  },
+  "outcome": "generative-induction-capability-pass",
+  "target_switch_margin_change_mean": 8.316899865865707
+}

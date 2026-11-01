@@ -1,0 +1,142 @@
+{
+  "entries": [
+    {
+      "bytes": 84167,
+      "file": "evidence/collective-synthetic.json",
+      "sha256": "4684bbd5774496ff8e5dacdb4972e7ffcfe394a9f482396aed012f577903246f",
+      "source_record": "bilinear-20261026/records/collective-sensitivity-v1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 1399,
+      "file": "evidence/pointer.json",
+      "sha256": "22de202d3d9a1becee18c046c161a59a4d16b4df8a1f9d3161cfb59f799243b5",
+      "source_record": "bilinear-20261026/records/pointer-summary-v0.3.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 1195,
+      "file": "evidence/induction.json",
+      "sha256": "bad78e8b30c6538d88197c0af76ea5e952e930138efabe50b25a6d328e216f0f",
+      "source_record": "bilinear-20261026/records/induction-summary-v1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 424,
+      "file": "evidence/projection.json",
+      "sha256": "0a355181381e51eec0588fca076f47ae6f7497b359ab62b3592d2a7c85efca77",
+      "source_record": "projection-20261026/records/static-summary-v1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 35979,
+      "file": "evidence/matchcopy.json",
+      "sha256": "92ced76320b726ee2bd6b909769a493665d982c44ed3c81dc91b8e89a5492f34",
+      "source_record": "matchcopy-20261026/records/discovery-result-v1.1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 882,
+      "file": "evidence/shared-factor.json",
+      "sha256": "361ca112fc4cf86355bde58143adcf74437d188129211b23ddb3e7e8dd6aa184",
+      "source_record": "shared-factor-20261026/records/native-source-v1/result.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 11735,
+      "file": "evidence/receiver-comparison.json",
+      "sha256": "9b1d56e83f21a9d436bb0574005817148bf908938a31514432ddec0bb1fc5f5d",
+      "source_record": "receiver-comparison-20261026/records/confirmation-result-v1.1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 2026,
+      "file": "evidence/matrix-gate.json",
+      "sha256": "024645dd8f4ec2b037ec16c4558aa0a8f332db91b5fe6becdbe13d140e94c1dd",
+      "source_record": "matrix-gate-20261026/records/native-stage-a-v1/result.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 750,
+      "file": "evidence/gqa-geometry.json",
+      "sha256": "897237043559c8c142cb2e1d3366e38a76cf525754bfb1795fed5189415ba684",
+      "source_record": "gqa-geometry-20261026/records/native-source-v1/result.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 1684,
+      "file": "evidence/key-relay.json",
+      "sha256": "52fe68ac53c2bd4c083cc9a5bdc834e5007d12701f6ab0d7c33e77965c934a3a",
+      "source_record": "key-relay-20261026/records/discovery-result-v1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 415,
+      "file": "evidence/pythia-transfer-stop.json",
+      "sha256": "4aa454bdf4a0686e3a9be9af9da5694da28b43b33647fe13095b882f204c616b",
+      "source_record": "pythia-receiver-20261026/records/identity-technical-stop-v1.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 3593,
+      "file": "evidence/context-order-stop.json",
+      "sha256": "fd78f8a85e2070d14da727db21ca7c48dafa4f20ba08c97fda720bef07cdb17d",
+      "source_record": "context-order-collision-20261026/records/native-v1/result.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 4968,
+      "file": "evidence/stage-a-audit.json",
+      "sha256": "6c2120f0daa7275ccf855dcfd4ad24c16c2e50660a57b8b2898d77d9b61f75a6",
+      "source_record": "stage-b-continuation-held-20261028-v3/inputs/stage-a-independent-audit.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 1947,
+      "file": "evidence/selector-v8-comparator.json",
+      "sha256": "76c6d701d774fd914d9ebc7b4978ab8b5c96fc337cfe00aca5615e208f06ef58",
+      "source_record": "generated-torch-selector-evidence-20261028-v8/comparator-feasibility-review-reported.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 1203,
+      "file": "evidence/fresh-attempt-summary.json",
+      "sha256": "4aed9c801ab9849a60d41939842d8c1569e9a56512775566effe8b1829493ad7",
+      "source_record": "fresh-generated-selector-attempt-evidence-20261029-v6/attempt-summary.json",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 5888,
+      "file": "evidence/receiver-closure.md",
+      "sha256": "592e8a3247d54ba8803cd119c5d2a093ffbd9b32c4db62e02f45d12006976db4",
+      "source_record": "receiver-comparison-20261026/reviews/RESULT-CLOSURE-AUDIT-v1.1.md",
+      "treatment": "exact byte copy; no model weights or full prompt inputs"
+    },
+    {
+      "bytes": 2435,
+      "file": "evidence/trained-mlp-monitoring-subset.json",
+      "sha256": "0d80e5fc0c3fc851f9e65350fb96d3591607d772e17e2c422f7ddedb3f96216f",
+      "source_record": "mlp-damping-native-20261026/records/native-pilot-v1/PILOT-CLOSURE-SUMMARY-v1.json",
+      "source_sha256": "82b781ef40a62a92de563205c773c9e7eb776bae875d990171e671cccad217ba",
+      "treatment": "selected fields, not byte-identical and not independent audit"
+    },
+    {
+      "bytes": 3374,
+      "file": "evidence/c2-independent-audit.txt",
+      "sha256": "421f913a721fcb599e219670f2b18130a37d9e0f6b0bb81b01fcc534501a4599",
+      "source_library_id": "libfile_eb64546d41d48191ad1d6895ec98a8cd",
+      "treatment": "exact byte copy of independently reported audit; no model weights"
+    }
+  ],
+  "evidence_scope": "retained outputs are saved scalar/derived records; no model weights, raw activation tensors, raw corpora, full prompt strings, private conversations or credentials",
+  "excluded_external": [
+    {
+      "bytes": 932012,
+      "sha256": "78110b2391ae49ebdb3fc9c0814965048b616a6579432941c880b3b9af06f9c4",
+      "source_record": "depth-20261026/records/cheap-result-v1.json",
+      "status": "external_source_not_included",
+      "why": "contains per-stratum fit mean vectors; scalar claims from ledger reconciliation; original raw file required for full audit"
+    }
+  ],
+  "schema": "llm-weight-structure-evidence-v1"
+}

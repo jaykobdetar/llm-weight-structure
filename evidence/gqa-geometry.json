@@ -1,0 +1,17 @@
+{
+  "admitted_sites": 0,
+  "all_pins_unchanged": true,
+  "claim": "bounded static equal-port geometry only; no executed-computation claim",
+  "extraction_receipt_sha256": "23f132c7bd77ca3f5e6ea90f84ac2d81ae7d37c152517879c15341ed3df228dc",
+  "freeze_sha256": "0861a4882a20e4cc8ed945beb691c8577b6cf7510df7f5833609e510d2e64755",
+  "model_sequence_evaluations": 0,
+  "nominee_index": null,
+  "null_draws": 0,
+  "peak_rss_bytes": 152031232,
+  "site_results_sha256": "be1f4f89b9e95db45e358bda3b5933b41a896db6f867325faa67336a576484f3",
+  "sites": 12,
+  "source_arrays_sha256": "1b10a2f651abf9a77df5a20f17361e83a8b4faa63bc2e1635ec8dac815acf438",
+  "statistic": null,
+  "status": "NO_ADMITTED_EQUAL_PORT_GEOMETRY_SITE",
+  "wall_seconds": 0.6386061440025514
+}

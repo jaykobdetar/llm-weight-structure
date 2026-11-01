@@ -1,0 +1,98 @@
+{
+  "calls": {
+    "arm_projection": {
+      "completed": 256,
+      "invoked": 256
+    },
+    "group_check": {
+      "completed": 16,
+      "invoked": 16
+    },
+    "native_local": {
+      "completed": 72,
+      "invoked": 72
+    },
+    "prefix": {
+      "completed": 8,
+      "invoked": 8
+    },
+    "program": {
+      "completed": 216,
+      "invoked": 216
+    },
+    "reference_local": {
+      "completed": 72,
+      "invoked": 72
+    },
+    "static_null": {
+      "completed": 38,
+      "invoked": 38
+    },
+    "static_observed": {
+      "completed": 2,
+      "invoked": 2
+    },
+    "subset": {
+      "completed": 144,
+      "invoked": 144
+    }
+  },
+  "completed_states": 8,
+  "follow_up_execution_released": false,
+  "guardian_child_exit_code": 0,
+  "guardian_child_reaped": true,
+  "guardian_status": "refused-or-failed",
+  "guardian_stop_reason": "live-child-memory-unavailable",
+  "interpretation": "Fixed-panel frozen-attention MLP+skip pilot only; no whole-block, downstream, population, training-origin, or novelty conclusion.",
+  "monitoring_failure_waived": false,
+  "overall_status": "TECHNICAL_GUARDIAN_MONITORING_FAILURE_WITH_COMPLETE_WORKER_SCIENTIFIC_RECORDS",
+  "receipt_label_defect": "Generic CALL_COMPLETED names for static-null draws use draw-observed; adjacent full STATIC_RECEIPT preserves correct checkpoint/draw. No alteration or retry.",
+  "required_same_states": 7,
+  "scientific_counts": {
+    "activity": {
+      "fail": 0,
+      "pass": 8,
+      "unresolved": 0
+    },
+    "clean_transfer": {
+      "fail": 8,
+      "pass": 0,
+      "unresolved": 0
+    },
+    "damping": {
+      "fail": 7,
+      "pass": 1,
+      "unresolved": 0
+    },
+    "distribution": {
+      "fail": 7,
+      "pass": 1,
+      "unresolved": 0
+    },
+    "finite_transfer": {
+      "fail": 8,
+      "pass": 0,
+      "unresolved": 0
+    },
+    "full": {
+      "fail": 8,
+      "pass": 0,
+      "unresolved": 0
+    },
+    "nonlinear": {
+      "fail": 8,
+      "pass": 0,
+      "unresolved": 0
+    },
+    "shared_axis": {
+      "fail": 0,
+      "pass": 8,
+      "unresolved": 0
+    }
+  },
+  "scope": "derived subset, not an independent result; scientific 0/8 and numerical checks require original saved audits",
+  "shutdown_race_causation_established": false,
+  "source_sha256": "82b781ef40a62a92de563205c773c9e7eb776bae875d990171e671cccad217ba",
+  "worker_joint_verdict": "FAIL",
+  "worker_status": "SCIENTIFIC_NONQUALIFICATION"
+}

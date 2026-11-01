@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "capability_G": 16,
+    "confirmation_baseline": 0,
+    "confirmation_edits": 0,
+    "identity": 2,
+    "passive_G": 16
+  },
+  "exception": "AssertionError",
+  "memory": {
+    "available_bytes": 8406888448,
+    "hwm_bytes": 1288052736,
+    "rss_bytes": 976506880
+  },
+  "no_retry_or_fallback": true,
+  "reason": "identity gate failed; no tolerance widening or fallback",
+  "stage": "identity"
+}

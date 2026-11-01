@@ -1,0 +1,26 @@
+{
+  "all_preload_pins_unchanged": true,
+  "artifacts": {
+    "effective_panels_sha256": "3306b3fd482b803178f4dc40977b84e740eb0f94f3fd87176e01b7972d2c3db3",
+    "frozen_probes_sha256": "4b35d8c5125b5f04b2d4c2646c09faec12ee9beb9fd1f42db0295bba3b5d4cfd"
+  },
+  "boundary_rejections": {
+    "5": 0,
+    "12": 0,
+    "19": 0,
+    "26": 0
+  },
+  "candidate_count": 0,
+  "confirmation": null,
+  "freeze_sha256": "7418ea0c54395604614edbcf294209a9caff41255849e26800c7b2bb81383a05",
+  "native_checkpoint_extraction_completed": true,
+  "native_model_sequence_evaluations": 0,
+  "no_mechanism_or_trained_organization_claim": true,
+  "null_searches_completed": 0,
+  "peak_rss_bytes": 203108352,
+  "scope": "fixed four-layer native static subclass source screen",
+  "side_eligible_count": 0,
+  "status": "NO_SIDE_ELIGIBLE_SOURCE_NOMINEE",
+  "wall_seconds": 1.4612978699988162,
+  "winner": null
+}

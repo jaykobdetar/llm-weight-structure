@@ -1,0 +1,23 @@
+{
+  "claim_file_created": false,
+  "entry_self_maxrss_kib_pre_exit": 24236,
+  "entry_self_system_pre_exit_seconds": 0.022736,
+  "entry_self_user_pre_exit_seconds": 0.043650999999999995,
+  "generated_fixture_events_recorded": 0,
+  "global_review_marker_created": false,
+  "host_min_bytes": 10095448064,
+  "host_preflight_bytes": 10108477440,
+  "note": "No generated ledger or worker counters were created; counts cannot be read from absent artifacts. Watchdog wait4 recorded, not a complete normal supervisor chain. No retry or v8 historical reclassification.",
+  "one_use_entry_consumed": true,
+  "reason": "watchdog completion source/schema hash mismatch before configuration and guard spawn",
+  "scope": "trusted no-descendant path; wait status and no guard/worker creation inferred from watchdog source stopping before fork; sampling and entry-pre-exit limitations apply",
+  "status": "TECHNICAL_HOLD",
+  "wall_seconds_pre_exit": 0.1016481890110299,
+  "watchdog_maxrss_kib": 19720,
+  "watchdog_recorded_pid": 9,
+  "watchdog_start_ticks": 25422261,
+  "watchdog_wait4_system_seconds": 0.00889,
+  "watchdog_wait4_user_seconds": 0.023708,
+  "watchdog_wait_status": 256,
+  "worker_output_opened": false
+}

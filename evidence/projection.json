@@ -1,0 +1,22 @@
+{
+  "final": {
+    "minimum": 0.7519460137039397,
+    "winner_key": [
+      2,
+      7,
+      4,
+      2
+    ],
+    "structural_pass_count": 0,
+    "eligible_count": 84,
+    "seconds": 1.9576317490009387
+  },
+  "step0": {
+    "minimum": null,
+    "winner_key": null,
+    "structural_pass_count": 0,
+    "eligible_count": 0,
+    "seconds": 2.048588165998808
+  },
+  "status": "weight-structural-no-go-stop-before-activation"
+}
